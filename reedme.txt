@@ -1,0 +1,10 @@
+SUBIR A GIT DESDE VISUAL
+
+abrir proyecto en visual y desde consola
+git init
+git add .
+git commit -m "my first commit"
+crear el repositorio en la web de git - publico
+copiar el enlace remoto
+pegar el enlace en la consola
+git push origin master
