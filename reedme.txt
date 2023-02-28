@@ -3,6 +3,10 @@ SUBIR A GIT DESDE VISUAL
 abrir proyecto en visual y desde consola
 git init
 git add .
+
+git config --global user.name "nombre-usuario"
+git config --global user.email "correo@usuario.com"
+
 git commit -m "my first commit"
 crear el repositorio en la web de git - publico
 copiar el enlace remoto
